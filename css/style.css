@@ -112,7 +112,7 @@ img {
 
 #home {
   /* background-image: url(../images/main-bg.jpg), linear-gradient(#c9ffbf, #ffafbd); */
-  background-image: url(../css/main-bg.jpg);
+  background-image: url(./main-bg.jpg);
   background-blend-mode: luminosity;
   min-height: 100vh;
 }
@@ -124,7 +124,7 @@ img {
 /* WORK
 ------------------------------ */
 #work {
-  background-image: url(../css/main-bg.jpg);
+  background-image: url(./main-bg.jpg);
   height: 270px;
   margin-bottom: 40px;
 }
